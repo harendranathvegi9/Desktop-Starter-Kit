@@ -1,5 +1,5 @@
 {
-  "name": "Desktop-Starter-Lite",
+  "name": "Desktop-Starter-Kit",
   "version": "1.0.0",
   "description": "A boilerplate for Electron, Material, Firebase.",
   "main": "main.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shyam-Chen/Desktop-Starter-Lite.git"
+    "url": "git+https://github.com/Shyam-Chen/Desktop-Starter-Kit.git"
   },
   "keywords": [
     "Electron"
@@ -24,9 +24,9 @@
   "author": "Yen-cheng Chen, 陳彥澄",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Shyam-Chen/Desktop-Starter-Lite/issues"
+    "url": "https://github.com/Shyam-Chen/Desktop-Starter-Kit/issues"
   },
-  "homepage": "https://github.com/Shyam-Chen/Desktop-Starter-Lite#readme",
+  "homepage": "https://github.com/Shyam-Chen/Desktop-Starter-Kit#readme",
   "babel": {
     "presets": [
       "latest"
